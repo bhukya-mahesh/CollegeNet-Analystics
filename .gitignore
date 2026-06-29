@@ -7,6 +7,18 @@ Thumbs.db
 # VS Code
 .vscode/
 
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment Variables
+.env
+
 # MySQL Workbench backups
 *.bak
 
