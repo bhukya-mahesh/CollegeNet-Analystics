@@ -1,0 +1,301 @@
+ItemID,UserID,CategoryID,ItemTitle,Description,ItemType,Status,Location,Brand,Color,EstimatedValue,ReportDate,RecoveredDate,VerificationStatus
+1,31,3,Brown Wallet,Brown Wallet reported as trade near BH-1.,Trade,Matched,BH-1,Wildcraft,Brown,895,2026-08-11,,Verified
+2,68,18,64GB USB Drive,64GB USB Drive reported as trade near BH-1.,Trade,Recovered,BH-1,SanDisk,Black,1731,2024-01-23,2024-02-22,Verified
+3,22,14,Jacket,Jacket reported as found near Main Canteen.,Found,Matched,Main Canteen,,,3937,2025-08-14,,Rejected
+4,63,3,Brown Wallet,Brown Wallet reported as trade near Parking Area.,Trade,Recovered,Parking Area,Wildcraft,Black,781,2024-07-14,2024-07-16,Verified
+5,24,8,Scientific Calculator,Scientific Calculator reported as lost near Sports Complex.,Lost,Matched,Sports Complex,,,1100,2025-03-25,,Verified
+6,24,3,Black Wallet,Black Wallet reported as found near ECE Block.,Found,Open,ECE Block,Wildcraft,Brown,1587,2025-03-16,,Verified
+7,7,11,Steel Water Bottle,Steel Water Bottle reported as lost near CSE Block.,Lost,Recovered,CSE Block,Milton,Red,1288,2024-08-03,2024-08-30,Verified
+8,31,5,Student ID Card,Student ID Card reported as wanted near Parking Area.,Wanted,Recovered,Parking Area,,,179,2026-01-28,2026-02-15,Verified
+9,28,4,Scooter Keys,Scooter Keys reported as lost near BH-2.,Lost,Recovered,BH-2,,,201,2024-09-20,2024-09-29,Rejected
+10,63,6,Programming Book,Programming Book reported as trade near Parking Area.,Trade,Recovered,Parking Area,,,804,2023-12-06,2023-12-09,Verified
+11,41,16,Black Umbrella,Black Umbrella reported as found near GH-2.,Found,Open,GH-2,,Blue,737,2022-09-15,,Verified
+12,98,5,Student ID Card,Student ID Card reported as lost near Auditorium.,Lost,Matched,Auditorium,,,158,2025-01-03,,Verified
+13,98,4,Room Keys,Room Keys reported as lost near Central Library.,Lost,Matched,Central Library,,,597,2025-05-08,,Verified
+14,38,6,Mathematics Book,Mathematics Book reported as trade near Central Library.,Trade,Matched,Central Library,,,1496,2023-09-28,,Verified
+15,55,18,32GB USB Drive,32GB USB Drive reported as trade near Civil Block.,Trade,Recovered,Civil Block,Kingston,Black,508,2025-09-20,2025-10-18,Pending
+16,63,18,32GB USB Drive,32GB USB Drive reported as lost near Main Library.,Lost,Recovered,Main Library,Kingston,Black,571,2024-04-01,2024-04-22,Verified
+17,67,6,Mathematics Book,Mathematics Book reported as lost near Parking Area.,Lost,Open,Parking Area,,,618,2023-08-15,,Pending
+18,70,12,College Backpack,College Backpack reported as lost near Mechanical Block.,Lost,Cancelled,Mechanical Block,Wildcraft,Black,3831,2023-05-23,,Pending
+19,6,4,Bike Keys,Bike Keys reported as lost near BH-3.,Lost,Cancelled,BH-3,,,236,2024-06-15,,Verified
+20,25,5,Student ID Card,Student ID Card reported as lost near ECE Block.,Lost,Recovered,ECE Block,,,181,2025-04-02,2025-04-24,Verified
+21,17,5,Student ID Card,Student ID Card reported as found near Central Library.,Found,Recovered,Central Library,,,131,2023-05-22,2023-06-05,Verified
+22,18,6,Mathematics Book,Mathematics Book reported as lost near EE Block.,Lost,Recovered,EE Block,,,503,2025-12-02,2025-12-26,Verified
+23,57,11,Plastic Bottle,Plastic Bottle reported as wanted near Admin Block.,Wanted,Recovered,Admin Block,Cello,Black,898,2024-10-27,2024-11-03,Verified
+24,41,4,Room Keys,Room Keys reported as lost near Mechanical Block.,Lost,Cancelled,Mechanical Block,,,316,2023-02-06,,Verified
+25,74,5,Student ID Card,Student ID Card reported as found near BH-3.,Found,Recovered,BH-3,,,158,2025-04-14,2025-04-28,Verified
+26,38,5,Student ID Card,Student ID Card reported as found near Health Centre.,Found,Recovered,Health Centre,,,232,2023-09-06,2023-10-01,Verified
+27,42,9,Digital Watch,Digital Watch reported as lost near EIE Block.,Lost,Recovered,EIE Block,Casio,Black,4924,2023-08-09,2023-09-08,Verified
+28,13,5,Student ID Card,Student ID Card reported as lost near Civil Block.,Lost,Recovered,Civil Block,,,193,2025-07-28,2025-08-24,Verified
+29,53,5,Student ID Card,Student ID Card reported as found near Parking Area.,Found,Matched,Parking Area,,,219,2026-03-06,,Verified
+30,79,5,Student ID Card,Student ID Card reported as found near BH-3.,Found,Open,BH-3,,,268,2024-05-20,,Verified
+31,69,17,10000mAh Power Bank,10000mAh Power Bank reported as lost near Mechanical Block.,Lost,Recovered,Mechanical Block,Mi,White,878,2024-12-16,2024-12-30,Verified
+32,92,12,College Backpack,College Backpack reported as lost near Central Library.,Lost,Recovered,Central Library,Skybags,Blue,2049,2025-12-10,2025-12-29,Verified
+33,40,7,Class Notebook,Class Notebook reported as lost near CSE Block.,Lost,Open,CSE Block,,,223,2026-02-13,,Verified
+34,1,5,Student ID Card,Student ID Card reported as found near Student Activity Centre.,Found,Recovered,Student Activity Centre,,,257,2026-01-02,2026-01-13,Verified
+35,77,7,Class Notebook,Class Notebook reported as lost near Mechanical Block.,Lost,Recovered,Mechanical Block,,,359,2025-09-17,2025-10-06,Verified
+36,15,9,Analog Watch,Analog Watch reported as lost near Main Gate.,Lost,Open,Main Gate,Fastrack,Black,1638,2023-07-01,,Verified
+37,24,5,Student ID Card,Student ID Card reported as lost near BH-2.,Lost,Open,BH-2,,,296,2024-12-30,,Verified
+38,40,5,Student ID Card,Student ID Card reported as found near Health Centre.,Found,Recovered,Health Centre,,,270,2026-02-28,2026-03-01,Pending
+39,38,7,Class Notebook,Class Notebook reported as found near Student Activity Centre.,Found,Recovered,Student Activity Centre,,,314,2024-02-12,2024-03-12,Rejected
+40,32,3,Brown Wallet,Brown Wallet reported as wanted near Central Library.,Wanted,Open,Central Library,Wildcraft,Black,625,2022-09-29,,Verified
+41,98,13,Important Documents,Important Documents reported as found near ECE Block.,Found,Recovered,ECE Block,,,156,2024-09-10,2024-10-03,Verified
+42,17,7,Class Notebook,Class Notebook reported as trade near EE Block.,Trade,Cancelled,EE Block,,,394,2022-11-04,,Verified
+43,55,11,Steel Water Bottle,Steel Water Bottle reported as wanted near Main Gate.,Wanted,Open,Main Gate,Milton,Red,246,2026-02-24,,Pending
+44,74,4,Bike Keys,Bike Keys reported as trade near Sports Complex.,Trade,Recovered,Sports Complex,,,615,2025-01-30,2025-02-01,Pending
+45,10,12,College Backpack,College Backpack reported as found near GH-2.,Found,Recovered,GH-2,Skybags,Blue,3306,2023-03-28,2023-04-07,Verified
+46,48,9,Analog Watch,Analog Watch reported as lost near Admin Block.,Lost,Recovered,Admin Block,Casio,Silver,3292,2024-05-22,2024-06-15,Verified
+47,86,17,10000mAh Power Bank,10000mAh Power Bank reported as lost near EIE Block.,Lost,Matched,EIE Block,Mi,White,2871,2024-01-05,,Verified
+48,72,17,10000mAh Power Bank,10000mAh Power Bank reported as lost near Student Activity Centre.,Lost,Recovered,Student Activity Centre,Boat,Black,2078,2024-01-21,2024-01-29,Verified
+49,95,5,Student ID Card,Student ID Card reported as lost near EIE Block.,Lost,Recovered,EIE Block,,,118,2025-04-12,2025-05-12,Verified
+50,82,12,College Backpack,College Backpack reported as found near BH-1.,Found,Open,BH-1,American Tourister,Blue,2765,2025-09-27,,Verified
+51,43,11,Steel Water Bottle,Steel Water Bottle reported as lost near BH-2.,Lost,Recovered,BH-2,Cello,Blue,1343,2024-10-11,2024-11-04,Verified
+52,23,4,Scooter Keys,Scooter Keys reported as trade near ECE Block.,Trade,Recovered,ECE Block,,,630,2025-06-18,2025-06-22,Pending
+53,30,5,Student ID Card,Student ID Card reported as trade near Mechanical Block.,Trade,Recovered,Mechanical Block,,,208,2025-07-25,2025-07-26,Verified
+54,6,5,Student ID Card,Student ID Card reported as found near Main Library.,Found,Open,Main Library,,,116,2024-01-19,,Verified
+55,49,5,Student ID Card,Student ID Card reported as found near Auditorium.,Found,Recovered,Auditorium,,,266,2023-12-30,2024-01-03,Verified
+56,72,17,10000mAh Power Bank,10000mAh Power Bank reported as lost near Central Library.,Lost,Recovered,Central Library,Boat,White,718,2024-04-27,2024-05-21,Verified
+57,28,4,Room Keys,Room Keys reported as lost near CSE Block.,Lost,Open,CSE Block,,,757,2025-07-14,,Verified
+58,70,2,iPhone,iPhone reported as trade near Main Gate.,Trade,Recovered,Main Gate,Motorola,Black,39758,2023-07-02,2023-07-15,Verified
+59,95,5,Student ID Card,Student ID Card reported as lost near GH-2.,Lost,Open,GH-2,,,281,2025-08-09,,Verified
+60,16,5,Student ID Card,Student ID Card reported as lost near Auditorium.,Lost,Recovered,Auditorium,,,139,2024-06-20,2024-06-25,Verified
+61,24,5,Student ID Card,Student ID Card reported as trade near Auditorium.,Trade,Recovered,Auditorium,,,243,2025-02-11,2025-02-21,Verified
+62,26,3,Brown Wallet,Brown Wallet reported as lost near Central Library.,Lost,Matched,Central Library,Wildcraft,Black,1643,2024-09-29,,Rejected
+63,20,4,Room Keys,Room Keys reported as found near CSE Block.,Found,Open,CSE Block,,,775,2024-10-19,,Verified
+64,18,5,Student ID Card,Student ID Card reported as found near BH-2.,Found,Recovered,BH-2,,,234,2026-01-23,2026-02-17,Verified
+65,90,4,Bike Keys,Bike Keys reported as lost near EIE Block.,Lost,Recovered,EIE Block,,,252,2024-05-13,2024-05-15,Verified
+66,70,3,Brown Wallet,Brown Wallet reported as trade near Main Canteen.,Trade,Recovered,Main Canteen,Wildcraft,Brown,1967,2023-01-17,2023-02-01,Verified
+67,74,5,Student ID Card,Student ID Card reported as found near CSE Block.,Found,Recovered,CSE Block,,,166,2025-05-23,2025-06-14,Verified
+68,20,4,Scooter Keys,Scooter Keys reported as lost near CSE Block.,Lost,Recovered,CSE Block,,,642,2024-11-24,2024-12-14,Verified
+69,42,12,College Backpack,College Backpack reported as found near Parking Area.,Found,Matched,Parking Area,American Tourister,Grey,2957,2024-03-09,,Verified
+70,8,12,College Backpack,College Backpack reported as lost near BH-3.,Lost,Open,BH-3,American Tourister,Grey,3298,2024-03-02,,Verified
+71,26,4,Scooter Keys,Scooter Keys reported as found near Main Canteen.,Found,Matched,Main Canteen,,,746,2024-07-18,,Verified
+72,32,5,Student ID Card,Student ID Card reported as found near Central Library.,Found,Cancelled,Central Library,,,272,2022-11-30,,Verified
+73,89,3,Brown Wallet,Brown Wallet reported as lost near Sports Complex.,Lost,Recovered,Sports Complex,Wildcraft,Brown,991,2024-11-21,2024-12-15,Verified
+74,73,5,Student ID Card,Student ID Card reported as lost near BH-3.,Lost,Recovered,BH-3,,,113,2025-02-18,2025-03-05,Verified
+75,33,4,Room Keys,Room Keys reported as lost near Sports Complex.,Lost,Recovered,Sports Complex,,,797,2025-06-04,2025-06-19,Pending
+76,39,4,Room Keys,Room Keys reported as wanted near Mechanical Block.,Wanted,Open,Mechanical Block,,,704,2023-12-25,,Verified
+77,47,3,Black Wallet,Black Wallet reported as lost near Admin Block.,Lost,Recovered,Admin Block,Wildcraft,Black,2657,2025-04-10,2025-04-30,Verified
+78,5,12,College Backpack,College Backpack reported as found near Parking Area.,Found,Recovered,Parking Area,American Tourister,Blue,1676,2024-05-29,2024-05-30,Verified
+79,78,3,Black Wallet,Black Wallet reported as found near GH-1.,Found,Matched,GH-1,Wildcraft,Brown,869,2025-03-17,,Verified
+80,88,2,iPhone,iPhone reported as trade near EIE Block.,Trade,Recovered,EIE Block,Apple,White,14382,2023-07-15,2023-08-09,Verified
+81,72,11,Plastic Bottle,Plastic Bottle reported as trade near Sports Complex.,Trade,Recovered,Sports Complex,Cello,Blue,1080,2023-12-03,2023-12-08,Verified
+82,53,4,Scooter Keys,Scooter Keys reported as lost near EIE Block.,Lost,Recovered,EIE Block,,,268,2026-06-28,2026-07-18,Verified
+83,15,4,Room Keys,Room Keys reported as trade near BH-3.,Trade,Recovered,BH-3,,,204,2023-03-25,2023-04-01,Verified
+84,10,12,College Backpack,College Backpack reported as found near Main Library.,Found,Recovered,Main Library,Skybags,Black,1024,2023-05-12,2023-06-10,Verified
+85,74,3,Black Wallet,Black Wallet reported as found near EIE Block.,Found,Recovered,EIE Block,Wildcraft,Black,407,2025-02-26,2025-02-27,Verified
+86,96,4,Room Keys,Room Keys reported as found near Main Library.,Found,Recovered,Main Library,,,395,2023-06-16,2023-06-18,Verified
+87,7,4,Scooter Keys,Scooter Keys reported as lost near EE Block.,Lost,Recovered,EE Block,,,482,2025-06-30,2025-07-08,Verified
+88,18,4,Bike Keys,Bike Keys reported as found near Main Gate.,Found,Recovered,Main Gate,,,422,2026-08-01,2026-08-08,Verified
+89,83,11,Steel Water Bottle,Steel Water Bottle reported as found near Admin Block.,Found,Open,Admin Block,Milton,Black,545,2024-09-27,,Pending
+90,73,7,Class Notebook,Class Notebook reported as trade near EE Block.,Trade,Matched,EE Block,,,250,2024-09-17,,Verified
+91,36,4,Bike Keys,Bike Keys reported as lost near EE Block.,Lost,Recovered,EE Block,,,226,2024-11-19,2024-12-15,Verified
+92,31,7,Class Notebook,Class Notebook reported as trade near Health Centre.,Trade,Recovered,Health Centre,,,86,2026-04-18,2026-05-11,Verified
+93,49,6,Mathematics Book,Mathematics Book reported as lost near Sports Complex.,Lost,Recovered,Sports Complex,,,1012,2024-05-14,2024-05-16,Verified
+94,84,4,Scooter Keys,Scooter Keys reported as found near CSE Block.,Found,Recovered,CSE Block,,,720,2026-01-27,2026-02-26,Verified
+95,51,7,Class Notebook,Class Notebook reported as lost near Central Library.,Lost,Open,Central Library,,,92,2023-12-26,,Verified
+96,55,12,College Backpack,College Backpack reported as lost near ECE Block.,Lost,Recovered,ECE Block,Skybags,Black,2021,2026-08-14,2026-08-30,Verified
+97,11,7,Class Notebook,Class Notebook reported as lost near ECE Block.,Lost,Open,ECE Block,,,297,2025-12-08,,Verified
+98,41,5,Student ID Card,Student ID Card reported as found near ECE Block.,Found,Recovered,ECE Block,,,190,2023-04-22,2023-05-14,Verified
+99,3,10,Wired Earphones,Wired Earphones reported as lost near BH-3.,Lost,Matched,BH-3,JBL,White,1181,2025-05-05,,Verified
+100,42,16,Black Umbrella,Black Umbrella reported as lost near ECE Block.,Lost,Recovered,ECE Block,,Blue,750,2023-08-18,2023-09-03,Verified
+101,76,2,Motorola Phone,Motorola Phone reported as wanted near BH-2.,Wanted,Recovered,BH-2,Motorola,Blue,50166,2024-04-02,2024-04-11,Verified
+102,83,8,Scientific Calculator,Scientific Calculator reported as lost near ECE Block.,Lost,Recovered,ECE Block,,,1550,2025-05-08,2025-06-03,Verified
+103,5,6,Programming Book,Programming Book reported as lost near Admin Block.,Lost,Recovered,Admin Block,,,845,2023-10-21,2023-11-02,Verified
+104,80,11,Plastic Bottle,Plastic Bottle reported as found near Main Gate.,Found,Recovered,Main Gate,Milton,Black,1277,2024-03-10,2024-03-27,Verified
+105,2,3,Black Wallet,Black Wallet reported as lost near Central Library.,Lost,Cancelled,Central Library,Wildcraft,Brown,1764,2025-08-30,,Verified
+106,74,13,Important Documents,Important Documents reported as wanted near Mechanical Block.,Wanted,Recovered,Mechanical Block,,,257,2025-03-22,2025-04-17,Verified
+107,72,4,Bike Keys,Bike Keys reported as lost near GH-1.,Lost,Cancelled,GH-1,,,387,2024-03-07,,Verified
+108,70,4,Bike Keys,Bike Keys reported as trade near Health Centre.,Trade,Recovered,Health Centre,,,620,2023-04-27,2023-05-13,Verified
+109,91,7,Class Notebook,Class Notebook reported as lost near Main Canteen.,Lost,Open,Main Canteen,,,365,2023-01-04,,Pending
+110,68,10,Wired Earphones,Wired Earphones reported as lost near ECE Block.,Lost,Recovered,ECE Block,Boat,Black,2308,2024-04-04,2024-04-16,Verified
+111,49,5,Student ID Card,Student ID Card reported as lost near Mechanical Block.,Lost,Recovered,Mechanical Block,,,126,2024-06-28,2024-07-23,Verified
+112,96,4,Room Keys,Room Keys reported as lost near Student Activity Centre.,Lost,Open,Student Activity Centre,,,432,2023-07-28,,Verified
+113,37,13,Important Documents,Important Documents reported as found near Central Library.,Found,Open,Central Library,,,52,2025-04-10,,Verified
+114,88,13,Important Documents,Important Documents reported as lost near EIE Block.,Lost,Recovered,EIE Block,,,209,2023-12-28,2023-12-29,Verified
+115,35,4,Scooter Keys,Scooter Keys reported as lost near Civil Block.,Lost,Recovered,Civil Block,,,447,2024-06-24,2024-07-16,Verified
+116,77,6,Mathematics Book,Mathematics Book reported as found near BH-1.,Found,Open,BH-1,,,644,2024-10-27,,Verified
+117,52,5,Student ID Card,Student ID Card reported as found near Central Library.,Found,Recovered,Central Library,,,214,2026-02-11,2026-03-09,Verified
+118,83,6,Engineering Textbook,Engineering Textbook reported as found near Mechanical Block.,Found,Recovered,Mechanical Block,,,806,2024-10-21,2024-11-17,Verified
+119,54,1,Lenovo Laptop,Lenovo Laptop reported as trade near Admin Block.,Trade,Recovered,Admin Block,Lenovo,Grey,86664,2024-06-20,2024-06-24,Verified
+120,84,3,Black Wallet,Black Wallet reported as lost near Main Canteen.,Lost,Recovered,Main Canteen,Wildcraft,Black,1751,2026-03-10,2026-03-14,Verified
+121,50,4,Bike Keys,Bike Keys reported as trade near Student Activity Centre.,Trade,Recovered,Student Activity Centre,,,681,2023-10-11,2023-11-07,Verified
+122,62,4,Bike Keys,Bike Keys reported as found near Main Library.,Found,Recovered,Main Library,,,346,2024-07-13,2024-08-11,Verified
+123,99,5,Student ID Card,Student ID Card reported as lost near Admin Block.,Lost,Matched,Admin Block,,,218,2024-06-06,,Verified
+124,33,3,Black Wallet,Black Wallet reported as lost near Civil Block.,Lost,Open,Civil Block,Wildcraft,Black,2598,2025-04-07,,Verified
+125,21,2,Samsung Phone,Samsung Phone reported as wanted near Main Library.,Wanted,Recovered,Main Library,Samsung,Black,61820,2023-11-01,2023-11-19,Verified
+126,9,6,Programming Book,Programming Book reported as found near Main Gate.,Found,Recovered,Main Gate,,,1049,2023-09-30,2023-10-04,Verified
+127,16,11,Plastic Bottle,Plastic Bottle reported as lost near Civil Block.,Lost,Recovered,Civil Block,Cello,Blue,155,2024-02-20,2024-02-25,Rejected
+128,82,17,10000mAh Power Bank,10000mAh Power Bank reported as found near BH-2.,Found,Open,BH-2,Boat,White,1870,2026-02-19,,Verified
+129,87,10,Wireless Earphones,Wireless Earphones reported as found near BH-2.,Found,Recovered,BH-2,Boat,White,4773,2026-08-11,2026-08-17,Verified
+130,39,12,College Backpack,College Backpack reported as wanted near Student Activity Centre.,Wanted,Recovered,Student Activity Centre,Skybags,Grey,2599,2024-06-27,2024-07-11,Pending
+131,18,5,Student ID Card,Student ID Card reported as lost near Main Library.,Lost,Recovered,Main Library,,,219,2026-02-17,2026-03-19,Verified
+132,5,9,Digital Watch,Digital Watch reported as found near Auditorium.,Found,Recovered,Auditorium,Fastrack,Black,5855,2024-03-04,2024-03-17,Pending
+133,53,5,Student ID Card,Student ID Card reported as lost near Sports Complex.,Lost,Recovered,Sports Complex,,,148,2026-06-12,2026-06-15,Verified
+134,17,7,Class Notebook,Class Notebook reported as found near Auditorium.,Found,Recovered,Auditorium,,,226,2023-06-11,2023-07-06,Verified
+135,71,4,Scooter Keys,Scooter Keys reported as lost near Central Library.,Lost,Cancelled,Central Library,,,144,2026-02-13,,Verified
+136,36,10,Wired Earphones,Wired Earphones reported as found near Main Gate.,Found,Recovered,Main Gate,Sony,White,3582,2025-04-13,2025-05-09,Verified
+137,52,10,Wireless Earphones,Wireless Earphones reported as trade near Sports Complex.,Trade,Open,Sports Complex,Sony,Black,2348,2025-12-28,,Verified
+138,43,5,Student ID Card,Student ID Card reported as found near Auditorium.,Found,Recovered,Auditorium,,,219,2024-11-07,2024-11-24,Verified
+139,64,6,Engineering Textbook,Engineering Textbook reported as lost near Student Activity Centre.,Lost,Recovered,Student Activity Centre,,,965,2025-08-09,2025-08-21,Verified
+140,8,11,Plastic Bottle,Plastic Bottle reported as found near Main Canteen.,Found,Recovered,Main Canteen,Cello,Blue,474,2023-08-29,2023-09-24,Verified
+141,29,19,Reading Glasses,Reading Glasses reported as found near Student Activity Centre.,Found,Recovered,Student Activity Centre,Lenskart,Black,3569,2023-01-13,2023-01-24,Verified
+142,22,9,Digital Watch,Digital Watch reported as trade near Main Gate.,Trade,Recovered,Main Gate,Fastrack,Silver,5969,2025-10-17,2025-10-23,Verified
+143,68,9,Analog Watch,Analog Watch reported as trade near Main Library.,Trade,Recovered,Main Library,Fastrack,Silver,9470,2024-07-04,2024-07-15,Verified
+144,79,3,Black Wallet,Black Wallet reported as lost near GH-2.,Lost,Recovered,GH-2,Wildcraft,Brown,1354,2024-05-09,2024-05-15,Verified
+145,19,4,Scooter Keys,Scooter Keys reported as found near BH-2.,Found,Recovered,BH-2,,,572,2025-06-24,2025-06-26,Verified
+146,89,13,Important Documents,Important Documents reported as lost near CSE Block.,Lost,Open,CSE Block,,,98,2025-04-11,,Verified
+147,59,7,Class Notebook,Class Notebook reported as found near BH-1.,Found,Recovered,BH-1,,,306,2026-08-01,2026-08-04,Verified
+148,68,5,Student ID Card,Student ID Card reported as trade near Mechanical Block.,Trade,Recovered,Mechanical Block,,,112,2024-01-13,2024-01-20,Verified
+149,87,9,Analog Watch,Analog Watch reported as trade near Admin Block.,Trade,Recovered,Admin Block,Casio,Silver,2600,2026-04-10,2026-04-18,Verified
+150,23,6,Programming Book,Programming Book reported as lost near Health Centre.,Lost,Recovered,Health Centre,,,933,2025-07-09,2025-07-12,Verified
+151,69,1,Asus Laptop,Asus Laptop reported as trade near Central Library.,Trade,Recovered,Central Library,HP,Grey,72155,2025-09-06,2025-09-24,Verified
+152,34,2,Motorola Phone,Motorola Phone reported as lost near Civil Block.,Lost,Cancelled,Civil Block,Realme,Black,23059,2025-10-22,,Verified
+153,30,3,Black Wallet,Black Wallet reported as lost near Admin Block.,Lost,Recovered,Admin Block,Wildcraft,Brown,1742,2026-04-10,2026-04-16,Verified
+154,46,4,Scooter Keys,Scooter Keys reported as found near Student Activity Centre.,Found,Open,Student Activity Centre,,,620,2024-12-03,,Pending
+155,59,1,Asus Laptop,Asus Laptop reported as found near Auditorium.,Found,Matched,Auditorium,Asus,Grey,63202,2025-12-16,,Verified
+156,18,12,College Backpack,College Backpack reported as lost near Health Centre.,Lost,Recovered,Health Centre,Wildcraft,Blue,579,2026-04-23,2026-05-16,Verified
+157,76,7,Class Notebook,Class Notebook reported as wanted near BH-1.,Wanted,Recovered,BH-1,,,211,2024-04-17,2024-04-20,Verified
+158,91,5,Student ID Card,Student ID Card reported as wanted near Civil Block.,Wanted,Recovered,Civil Block,,,156,2023-02-18,2023-03-01,Verified
+159,39,3,Brown Wallet,Brown Wallet reported as trade near GH-1.,Trade,Cancelled,GH-1,Wildcraft,Black,2276,2024-01-03,,Verified
+160,96,5,Student ID Card,Student ID Card reported as found near GH-2.,Found,Matched,GH-2,,,222,2023-03-09,,Verified
+161,86,11,Steel Water Bottle,Steel Water Bottle reported as lost near Admin Block.,Lost,Open,Admin Block,Milton,Blue,539,2023-11-17,,Verified
+162,7,12,College Backpack,College Backpack reported as lost near EIE Block.,Lost,Recovered,EIE Block,Wildcraft,Black,1488,2024-10-07,2024-10-15,Verified
+163,6,19,Reading Glasses,Reading Glasses reported as lost near Auditorium.,Lost,Recovered,Auditorium,Lenskart,Brown,11878,2024-05-19,2024-06-02,Verified
+164,66,4,Bike Keys,Bike Keys reported as found near BH-3.,Found,Recovered,BH-3,,,231,2023-08-26,2023-09-01,Verified
+165,42,11,Plastic Bottle,Plastic Bottle reported as lost near Auditorium.,Lost,Recovered,Auditorium,Cello,Black,496,2023-08-08,2023-08-30,Verified
+166,29,1,Lenovo Laptop,Lenovo Laptop reported as found near Admin Block.,Found,Recovered,Admin Block,Apple,Grey,64375,2023-04-28,2023-05-12,Verified
+167,70,9,Digital Watch,Digital Watch reported as lost near Admin Block.,Lost,Recovered,Admin Block,Titan,Black,4052,2023-08-21,2023-09-16,Verified
+168,48,6,Mathematics Book,Mathematics Book reported as lost near GH-2.,Lost,Recovered,GH-2,,,793,2023-12-29,2023-12-31,Verified
+169,78,6,Mathematics Book,Mathematics Book reported as lost near BH-1.,Lost,Recovered,BH-1,,,451,2025-02-20,2025-03-03,Verified
+170,23,4,Room Keys,Room Keys reported as found near EE Block.,Found,Recovered,EE Block,,,123,2025-02-11,2025-02-22,Verified
+171,75,7,Class Notebook,Class Notebook reported as lost near BH-2.,Lost,Recovered,BH-2,,,341,2025-07-06,2025-07-16,Verified
+172,54,6,Mathematics Book,Mathematics Book reported as wanted near EE Block.,Wanted,Recovered,EE Block,,,1611,2023-11-28,2023-12-10,Verified
+173,33,11,Plastic Bottle,Plastic Bottle reported as wanted near GH-2.,Wanted,Open,GH-2,Milton,Black,307,2024-10-10,,Pending
+174,18,10,Wired Earphones,Wired Earphones reported as found near Main Gate.,Found,Recovered,Main Gate,Boat,Black,4949,2026-03-19,2026-04-15,Verified
+175,83,4,Scooter Keys,Scooter Keys reported as found near Parking Area.,Found,Recovered,Parking Area,,,403,2025-03-08,2025-04-02,Pending
+176,4,10,Wired Earphones,Wired Earphones reported as found near EE Block.,Found,Recovered,EE Block,Boat,White,3792,2026-03-10,2026-04-09,Verified
+177,77,12,College Backpack,College Backpack reported as found near Admin Block.,Found,Recovered,Admin Block,American Tourister,Blue,908,2024-12-25,2025-01-05,Verified
+178,19,2,Samsung Phone,Samsung Phone reported as lost near Parking Area.,Lost,Cancelled,Parking Area,Samsung,Blue,9519,2024-11-20,,Pending
+179,8,17,10000mAh Power Bank,10000mAh Power Bank reported as lost near BH-1.,Lost,Recovered,BH-1,Mi,Black,1702,2023-09-04,2023-09-30,Verified
+180,71,11,Steel Water Bottle,Steel Water Bottle reported as lost near ECE Block.,Lost,Recovered,ECE Block,Milton,Red,235,2025-12-26,2026-01-23,Verified
+181,60,4,Bike Keys,Bike Keys reported as found near Student Activity Centre.,Found,Recovered,Student Activity Centre,,,622,2023-04-20,2023-04-30,Verified
+182,85,3,Brown Wallet,Brown Wallet reported as lost near ECE Block.,Lost,Open,ECE Block,Wildcraft,Brown,2820,2023-11-06,,Verified
+183,6,13,Important Documents,Important Documents reported as trade near BH-3.,Trade,Open,BH-3,,,114,2023-12-22,,Verified
+184,4,4,Room Keys,Room Keys reported as wanted near GH-2.,Wanted,Cancelled,GH-2,,,310,2025-11-21,,Verified
+185,24,4,Bike Keys,Bike Keys reported as found near EE Block.,Found,Recovered,EE Block,,,507,2025-01-28,2025-02-05,Verified
+186,48,13,Important Documents,Important Documents reported as trade near Health Centre.,Trade,Recovered,Health Centre,,,193,2024-03-03,2024-03-27,Verified
+187,82,5,Student ID Card,Student ID Card reported as lost near BH-1.,Lost,Recovered,BH-1,,,277,2026-05-30,2026-06-08,Verified
+188,36,5,Student ID Card,Student ID Card reported as lost near Admin Block.,Lost,Recovered,Admin Block,,,113,2025-05-08,2025-05-22,Verified
+189,27,12,College Backpack,College Backpack reported as lost near EIE Block.,Lost,Matched,EIE Block,Skybags,Grey,1674,2025-09-26,,Verified
+190,45,3,Black Wallet,Black Wallet reported as lost near Civil Block.,Lost,Matched,Civil Block,Wildcraft,Black,1001,2023-05-01,,Verified
+191,51,5,Student ID Card,Student ID Card reported as found near Sports Complex.,Found,Recovered,Sports Complex,,,194,2023-09-18,2023-09-26,Verified
+192,84,4,Room Keys,Room Keys reported as wanted near BH-3.,Wanted,Recovered,BH-3,,,567,2025-08-05,2025-08-22,Verified
+193,81,10,Wired Earphones,Wired Earphones reported as lost near BH-2.,Lost,Recovered,BH-2,Boat,Black,1636,2025-11-25,2025-12-03,Verified
+194,11,3,Brown Wallet,Brown Wallet reported as trade near Health Centre.,Trade,Recovered,Health Centre,Wildcraft,Brown,2923,2026-05-24,2026-06-10,Verified
+195,91,11,Steel Water Bottle,Steel Water Bottle reported as trade near GH-2.,Trade,Recovered,GH-2,Cello,Red,592,2023-04-25,2023-05-11,Verified
+196,18,1,HP Laptop,HP Laptop reported as lost near CSE Block.,Lost,Recovered,CSE Block,Apple,Silver,38587,2026-07-16,2026-07-20,Verified
+197,34,5,Student ID Card,Student ID Card reported as found near GH-1.,Found,Recovered,GH-1,,,139,2026-06-06,2026-06-17,Pending
+198,35,11,Steel Water Bottle,Steel Water Bottle reported as trade near Admin Block.,Trade,Recovered,Admin Block,Cello,Black,399,2024-05-06,2024-05-13,Pending
+199,48,12,College Backpack,College Backpack reported as lost near EE Block.,Lost,Recovered,EE Block,Skybags,Blue,1312,2024-03-20,2024-04-07,Verified
+200,32,6,Engineering Textbook,Engineering Textbook reported as found near Main Library.,Found,Recovered,Main Library,,,321,2022-11-04,2022-11-10,Verified
+201,78,11,Plastic Bottle,Plastic Bottle reported as lost near Admin Block.,Lost,Recovered,Admin Block,Cello,Black,620,2025-05-18,2025-06-16,Verified
+202,84,3,Black Wallet,Black Wallet reported as lost near Central Library.,Lost,Recovered,Central Library,Wildcraft,Brown,1916,2025-11-10,2025-12-02,Verified
+203,55,1,MacBook,MacBook reported as found near Sports Complex.,Found,Open,Sports Complex,HP,Grey,68079,2026-03-31,,Verified
+204,50,5,Student ID Card,Student ID Card reported as found near CSE Block.,Found,Recovered,CSE Block,,,133,2024-05-20,2024-05-29,Verified
+205,63,8,Scientific Calculator,Scientific Calculator reported as lost near EE Block.,Lost,Recovered,EE Block,,,776,2024-06-28,2024-07-26,Verified
+206,75,3,Black Wallet,Black Wallet reported as lost near GH-1.,Lost,Recovered,GH-1,Wildcraft,Brown,2572,2024-09-21,2024-09-27,Verified
+207,14,2,Motorola Phone,Motorola Phone reported as lost near Mechanical Block.,Lost,Recovered,Mechanical Block,OnePlus,Blue,16517,2024-08-02,2024-08-31,Verified
+208,19,8,Scientific Calculator,Scientific Calculator reported as lost near BH-1.,Lost,Recovered,BH-1,,,1700,2025-05-03,2025-05-31,Verified
+209,45,4,Bike Keys,Bike Keys reported as found near Main Canteen.,Found,Open,Main Canteen,,,267,2023-04-13,,Verified
+210,12,11,Steel Water Bottle,Steel Water Bottle reported as lost near Main Gate.,Lost,Recovered,Main Gate,Cello,Blue,906,2024-04-21,2024-04-28,Verified
+211,95,3,Brown Wallet,Brown Wallet reported as lost near GH-1.,Lost,Recovered,GH-1,Wildcraft,Brown,2467,2024-09-01,2024-09-16,Verified
+212,87,1,Lenovo Laptop,Lenovo Laptop reported as trade near BH-2.,Trade,Recovered,BH-2,Dell,Grey,77831,2026-05-09,2026-05-24,Verified
+213,45,3,Brown Wallet,Brown Wallet reported as found near Civil Block.,Found,Open,Civil Block,Wildcraft,Black,1542,2023-03-24,,Verified
+214,15,5,Student ID Card,Student ID Card reported as found near ECE Block.,Found,Recovered,ECE Block,,,288,2023-01-27,2023-02-25,Verified
+215,33,9,Digital Watch,Digital Watch reported as trade near Mechanical Block.,Trade,Recovered,Mechanical Block,Casio,Black,2533,2025-06-28,2025-07-18,Verified
+216,81,3,Brown Wallet,Brown Wallet reported as found near Mechanical Block.,Found,Recovered,Mechanical Block,Wildcraft,Black,2360,2025-07-11,2025-08-03,Verified
+217,68,5,Student ID Card,Student ID Card reported as trade near EIE Block.,Trade,Open,EIE Block,,,256,2024-06-02,,Verified
+218,3,6,Engineering Textbook,Engineering Textbook reported as found near Sports Complex.,Found,Open,Sports Complex,,,1853,2025-06-17,,Verified
+219,86,7,Class Notebook,Class Notebook reported as wanted near BH-3.,Wanted,Matched,BH-3,,,389,2024-05-13,,Verified
+220,35,5,Student ID Card,Student ID Card reported as lost near GH-2.,Lost,Cancelled,GH-2,,,211,2024-06-26,,Verified
+221,16,3,Brown Wallet,Brown Wallet reported as trade near Mechanical Block.,Trade,Matched,Mechanical Block,Wildcraft,Brown,1903,2023-09-11,,Verified
+222,89,10,Wired Earphones,Wired Earphones reported as found near Civil Block.,Found,Recovered,Civil Block,Sony,White,2027,2025-04-25,2025-05-05,Verified
+223,51,14,Hoodie,Hoodie reported as lost near Admin Block.,Lost,Matched,Admin Block,,,2649,2024-02-20,,Verified
+224,70,10,Wired Earphones,Wired Earphones reported as lost near Civil Block.,Lost,Recovered,Civil Block,JBL,Black,4051,2022-09-19,2022-10-11,Verified
+225,48,3,Black Wallet,Black Wallet reported as lost near GH-2.,Lost,Recovered,GH-2,Wildcraft,Brown,2305,2024-05-17,2024-06-13,Verified
+226,84,6,Mathematics Book,Mathematics Book reported as wanted near Auditorium.,Wanted,Open,Auditorium,,,1831,2026-02-02,,Rejected
+227,83,11,Plastic Bottle,Plastic Bottle reported as found near Civil Block.,Found,Recovered,Civil Block,Milton,Red,1370,2024-09-18,2024-09-26,Verified
+228,61,1,MacBook,MacBook reported as lost near Main Library.,Lost,Open,Main Library,Asus,Silver,37454,2024-03-10,,Verified
+229,86,1,HP Laptop,HP Laptop reported as found near Student Activity Centre.,Found,Recovered,Student Activity Centre,Dell,Grey,43323,2024-05-17,2024-05-21,Verified
+230,56,5,Student ID Card,Student ID Card reported as found near Mechanical Block.,Found,Matched,Mechanical Block,,,244,2022-11-20,,Verified
+231,99,6,Engineering Textbook,Engineering Textbook reported as found near EIE Block.,Found,Matched,EIE Block,,,506,2023-11-11,,Verified
+232,65,11,Plastic Bottle,Plastic Bottle reported as found near Mechanical Block.,Found,Matched,Mechanical Block,Milton,Black,746,2024-09-13,,Pending
+233,46,12,College Backpack,College Backpack reported as lost near Main Gate.,Lost,Matched,Main Gate,American Tourister,Black,946,2025-04-20,,Verified
+234,33,1,Lenovo Laptop,Lenovo Laptop reported as wanted near Civil Block.,Wanted,Matched,Civil Block,Apple,Black,75786,2024-11-11,,Verified
+235,1,1,MacBook,MacBook reported as lost near BH-1.,Lost,Recovered,BH-1,Dell,Silver,84162,2026-06-27,2026-07-04,Verified
+236,42,3,Black Wallet,Black Wallet reported as lost near GH-2.,Lost,Recovered,GH-2,Wildcraft,Brown,2526,2023-09-15,2023-10-15,Verified
+237,82,6,Engineering Textbook,Engineering Textbook reported as wanted near Health Centre.,Wanted,Recovered,Health Centre,,,538,2026-05-31,2026-06-27,Verified
+238,65,12,College Backpack,College Backpack reported as lost near GH-2.,Lost,Open,GH-2,Wildcraft,Black,615,2024-12-09,,Verified
+239,13,7,Class Notebook,Class Notebook reported as found near CSE Block.,Found,Recovered,CSE Block,,,299,2025-03-08,2025-03-12,Verified
+240,72,3,Black Wallet,Black Wallet reported as lost near Main Gate.,Lost,Recovered,Main Gate,Wildcraft,Black,2378,2024-07-14,2024-07-31,Verified
+241,29,19,Reading Glasses,Reading Glasses reported as trade near BH-1.,Trade,Recovered,BH-1,Lenskart,Black,10003,2022-10-25,2022-11-18,Verified
+242,71,11,Plastic Bottle,Plastic Bottle reported as trade near BH-1.,Trade,Open,BH-1,Cello,Black,1090,2026-02-21,,Pending
+243,36,4,Bike Keys,Bike Keys reported as found near BH-3.,Found,Recovered,BH-3,,,411,2025-09-09,2025-10-03,Verified
+244,34,12,College Backpack,College Backpack reported as found near CSE Block.,Found,Open,CSE Block,American Tourister,Black,3125,2026-03-26,,Verified
+245,96,12,College Backpack,College Backpack reported as lost near BH-3.,Lost,Matched,BH-3,American Tourister,Black,1993,2023-04-09,,Verified
+246,40,11,Steel Water Bottle,Steel Water Bottle reported as wanted near Main Canteen.,Wanted,Recovered,Main Canteen,Cello,Black,970,2025-12-10,2025-12-25,Verified
+247,98,10,Wireless Earphones,Wireless Earphones reported as lost near Health Centre.,Lost,Recovered,Health Centre,Boat,Black,4256,2025-01-02,2025-01-24,Verified
+248,25,10,Wired Earphones,Wired Earphones reported as wanted near ECE Block.,Wanted,Recovered,ECE Block,JBL,White,3493,2025-01-18,2025-02-07,Verified
+249,15,7,Class Notebook,Class Notebook reported as lost near Main Library.,Lost,Recovered,Main Library,,,345,2023-06-26,2023-07-26,Pending
+250,56,5,Student ID Card,Student ID Card reported as wanted near GH-1.,Wanted,Open,GH-1,,,113,2023-08-01,,Verified
+251,23,12,College Backpack,College Backpack reported as trade near BH-1.,Trade,Recovered,BH-1,Skybags,Black,2790,2024-10-21,2024-11-01,Verified
+252,68,4,Room Keys,Room Keys reported as lost near Mechanical Block.,Lost,Open,Mechanical Block,,,620,2024-01-27,,Verified
+253,17,10,Wired Earphones,Wired Earphones reported as lost near Main Gate.,Lost,Recovered,Main Gate,Boat,Black,2936,2023-01-16,2023-02-07,Verified
+254,68,10,Wired Earphones,Wired Earphones reported as found near CSE Block.,Found,Cancelled,CSE Block,Boat,Black,2568,2024-07-08,,Verified
+255,71,1,MacBook,MacBook reported as lost near Central Library.,Lost,Recovered,Central Library,Dell,Silver,58331,2025-08-24,2025-09-05,Verified
+256,58,12,College Backpack,College Backpack reported as lost near EIE Block.,Lost,Recovered,EIE Block,American Tourister,Blue,2687,2025-06-18,2025-07-03,Verified
+257,33,1,HP Laptop,HP Laptop reported as lost near EE Block.,Lost,Recovered,EE Block,HP,Black,43165,2025-02-13,2025-03-11,Verified
+258,6,3,Black Wallet,Black Wallet reported as found near Civil Block.,Found,Recovered,Civil Block,Wildcraft,Brown,1673,2024-03-27,2024-04-01,Verified
+259,84,10,Wireless Earphones,Wireless Earphones reported as lost near Main Canteen.,Lost,Open,Main Canteen,JBL,Black,1143,2025-08-26,,Verified
+260,30,3,Brown Wallet,Brown Wallet reported as lost near EE Block.,Lost,Recovered,EE Block,Wildcraft,Brown,1416,2026-03-01,2026-03-05,Verified
+261,82,7,Class Notebook,Class Notebook reported as lost near Student Activity Centre.,Lost,Open,Student Activity Centre,,,170,2025-12-03,,Pending
+262,78,4,Scooter Keys,Scooter Keys reported as lost near Health Centre.,Lost,Recovered,Health Centre,,,381,2024-12-09,2024-12-15,Verified
+263,98,5,Student ID Card,Student ID Card reported as lost near Admin Block.,Lost,Recovered,Admin Block,,,170,2025-04-02,2025-04-26,Pending
+264,9,5,Student ID Card,Student ID Card reported as trade near BH-1.,Trade,Recovered,BH-1,,,108,2024-01-16,2024-01-20,Verified
+265,69,11,Steel Water Bottle,Steel Water Bottle reported as found near Parking Area.,Found,Recovered,Parking Area,Cello,Red,1305,2025-08-17,2025-08-28,Verified
+266,40,5,Student ID Card,Student ID Card reported as lost near Mechanical Block.,Lost,Recovered,Mechanical Block,,,195,2025-10-04,2025-10-16,Verified
+267,85,7,Class Notebook,Class Notebook reported as lost near Main Library.,Lost,Recovered,Main Library,,,386,2023-08-11,2023-08-31,Verified
+268,96,6,Programming Book,Programming Book reported as trade near Parking Area.,Trade,Matched,Parking Area,,,290,2023-06-28,,Verified
+269,80,1,HP Laptop,HP Laptop reported as lost near GH-1.,Lost,Recovered,GH-1,Asus,Grey,51362,2023-07-26,2023-07-27,Verified
+270,80,3,Brown Wallet,Brown Wallet reported as found near Main Gate.,Found,Open,Main Gate,Wildcraft,Black,2370,2024-04-14,,Verified
+271,78,5,Student ID Card,Student ID Card reported as found near Main Canteen.,Found,Recovered,Main Canteen,,,140,2025-06-28,2025-07-05,Verified
+272,31,9,Digital Watch,Digital Watch reported as found near ECE Block.,Found,Recovered,ECE Block,Casio,Black,4801,2025-09-24,2025-10-22,Verified
+273,38,4,Scooter Keys,Scooter Keys reported as found near Student Activity Centre.,Found,Recovered,Student Activity Centre,,,422,2024-02-02,2024-02-29,Pending
+274,89,1,Dell Laptop,Dell Laptop reported as lost near Admin Block.,Lost,Matched,Admin Block,Dell,Silver,89276,2024-12-13,,Pending
+275,18,7,Class Notebook,Class Notebook reported as trade near CSE Block.,Trade,Recovered,CSE Block,,,294,2026-02-23,2026-03-25,Pending
+276,71,1,HP Laptop,HP Laptop reported as lost near Sports Complex.,Lost,Recovered,Sports Complex,Asus,Black,71762,2026-06-19,2026-07-13,Verified
+277,28,6,Mathematics Book,Mathematics Book reported as lost near Auditorium.,Lost,Open,Auditorium,,,1667,2024-11-24,,Verified
+278,21,7,Class Notebook,Class Notebook reported as found near GH-1.,Found,Matched,GH-1,,,340,2024-09-07,,Verified
+279,52,11,Steel Water Bottle,Steel Water Bottle reported as lost near Auditorium.,Lost,Recovered,Auditorium,Cello,Black,975,2026-01-07,2026-01-25,Verified
+280,78,3,Brown Wallet,Brown Wallet reported as found near BH-3.,Found,Recovered,BH-3,Wildcraft,Brown,1580,2025-07-28,2025-08-27,Verified
+281,5,9,Analog Watch,Analog Watch reported as trade near EIE Block.,Trade,Recovered,EIE Block,Casio,Black,5821,2023-09-29,2023-10-15,Verified
+282,35,4,Room Keys,Room Keys reported as lost near Central Library.,Lost,Recovered,Central Library,,,332,2024-07-08,2024-07-23,Pending
+283,68,5,Student ID Card,Student ID Card reported as found near CSE Block.,Found,Open,CSE Block,,,274,2024-05-15,,Verified
+284,86,6,Programming Book,Programming Book reported as lost near Auditorium.,Lost,Recovered,Auditorium,,,1730,2023-12-07,2023-12-26,Rejected
+285,100,9,Analog Watch,Analog Watch reported as found near GH-2.,Found,Open,GH-2,Fastrack,Silver,1611,2024-04-17,,Verified
+286,61,2,OnePlus Phone,OnePlus Phone reported as found near Student Activity Centre.,Found,Recovered,Student Activity Centre,Apple,Blue,27968,2024-02-08,2024-02-27,Verified
+287,25,4,Room Keys,Room Keys reported as lost near CSE Block.,Lost,Recovered,CSE Block,,,390,2025-03-12,2025-03-19,Pending
+288,56,4,Scooter Keys,Scooter Keys reported as lost near ECE Block.,Lost,Recovered,ECE Block,,,218,2023-05-08,2023-06-07,Verified
+289,84,7,Class Notebook,Class Notebook reported as trade near BH-1.,Trade,Recovered,BH-1,,,337,2026-03-28,2026-04-15,Pending
+290,12,7,Class Notebook,Class Notebook reported as trade near Main Canteen.,Trade,Recovered,Main Canteen,,,93,2024-01-04,2024-01-25,Verified
+291,81,4,Scooter Keys,Scooter Keys reported as lost near Main Gate.,Lost,Recovered,Main Gate,,,217,2025-08-23,2025-09-04,Verified
+292,51,4,Room Keys,Room Keys reported as found near CSE Block.,Found,Open,CSE Block,,,129,2024-01-09,,Verified
+293,91,5,Student ID Card,Student ID Card reported as lost near Admin Block.,Lost,Matched,Admin Block,,,236,2023-02-26,,Pending
+294,28,4,Bike Keys,Bike Keys reported as lost near CSE Block.,Lost,Matched,CSE Block,,,150,2024-09-23,,Verified
+295,32,10,Wired Earphones,Wired Earphones reported as lost near GH-2.,Lost,Recovered,GH-2,Sony,Black,2951,2023-06-27,2023-07-02,Verified
+296,42,7,Class Notebook,Class Notebook reported as trade near GH-2.,Trade,Recovered,GH-2,,,205,2024-06-28,2024-07-28,Pending
+297,4,12,College Backpack,College Backpack reported as wanted near CSE Block.,Wanted,Recovered,CSE Block,Skybags,Black,3267,2026-03-26,2026-04-07,Verified
+298,38,4,Bike Keys,Bike Keys reported as found near Auditorium.,Found,Recovered,Auditorium,,,445,2024-04-05,2024-04-25,Pending
+299,12,3,Brown Wallet,Brown Wallet reported as wanted near Student Activity Centre.,Wanted,Open,Student Activity Centre,Wildcraft,Black,2583,2023-11-23,,Verified
+300,33,4,Room Keys,Room Keys reported as lost near Main Library.,Lost,Recovered,Main Library,,,669,2025-01-08,2025-02-05,Verified
